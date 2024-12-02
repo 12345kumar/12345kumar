@@ -12,6 +12,8 @@
 - 👯 I’m looking to collaborate on **Data analyst projects**
 
 - 🤝 I’m looking for help with **Data analyst related**
+ 
+-  🤝 I’m looking for   **Entry level data analyst roles , Data analyst internships**
 
 - 📫 How to reach me **kumarbabupotthuri@gmail.com**
 
