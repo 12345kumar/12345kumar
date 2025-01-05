@@ -19,6 +19,11 @@
 
 - ⚡ Fun fact **I thin i am funny**
 
+
+<p align="center">
+  <img src="https://img.freepik.com/premium-photo/3d-cartoon-data-analyst-showcasing-insights-management-datas-role-decision-making-dig_980716-173821.jpg" alt="Banner Image" width="400" height="auto" />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kumar-babu-potthuri-a17a0b282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="potthuri kumar babu" height="30" width="40" /></a>
