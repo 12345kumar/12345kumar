@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kumarbabupotthuri@gmail.com**
 
-- ⚡ Fun fact **I thin i am funny**
+- ⚡ Fun fact **I think i am funny**
 
 <p align="center">
   <img src="https://img.freepik.com/premium-photo/professional-3d-icon-illustrating-data-analytics-insight-business-featuring-data-analyst-inte_980716-112783.jpg" alt="Banner Image" width="400" height="auto" />
