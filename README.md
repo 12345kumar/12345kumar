@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=12345kumar&label=Profile%20views&color=0e75b6&style=flat" alt="12345kumar" /> </p>
 
 <p align="center">
-  <img src="https://www.kdnuggets.com/wp-content/uploads/c_free_data_analyst_bootcamp_beginners_1.png" alt="Banner Image" width="400" height="auto" />
+  <img src="https://img.freepik.com/premium-photo/professional-3d-icon-illustrating-data-analytics-insight-business-featuring-data-analyst-inte_980716-112783.jpg" alt="Banner Image" width="400" height="auto" />
 </p>
 
 - 🌱 I’m currently learning **Data analyst course**
