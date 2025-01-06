@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.freepik.com/premium-photo/3d-cartoon-data-analyst-showcasing-insights-management-datas-role-decision-making-dig_980716-173821.jpg" alt="Banner Image" width="400" height="auto" />
 </p>
-- 🌱 I’m currently learning **Data analyst course**
+- 🌱 I’m currently learning **Dara analyst course**
 
 - 👯 I’m looking to collaborate on **Data analyst projects**
 
